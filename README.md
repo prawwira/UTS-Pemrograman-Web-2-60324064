@@ -7,12 +7,12 @@ Aplikasi ini merupakan sistem manajemen kategori buku berbasis web yang dikemban
 Dengan tampilan antarmuka yang sederhana menggunakan Bootstrap, aplikasi ini dirancang agar mudah digunakan serta dilengkapi dengan validasi data dan keamanan melalui prepared statement. Aplikasi ini bertujuan untuk membantu pengelolaan data kategori buku secara lebih terstruktur, efisien, dan aman.
 
 Struktur Folder :
-                  uts_[60324064]
+                  ''' uts_[60324064]
                   ├── config
                   │   └── database.php
                   ├── create.php
                   ├── delete.php
                   ├── edit.php
-                  └── index.php
+                  └── index.php '''
 
 Link rrepository : https://github.com/prawwira/UTS-Pemrograman-Web-2-60324064
